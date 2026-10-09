@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/hf-hub/commit/a66bdcf2f2664a55ab3a1415184c7aebd8ac4ed5",
       "git:hexsha": "a66bdcf2f2664a55ab3a1415184c7aebd8ac4ed5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-09T13:22:38.407959+00:00"
     }
   ]
 }
